@@ -7,7 +7,7 @@ const user = {
   name: "しゅう",
   email: "sample@email.com",
   address: "address"
-}
+};
 
 function App() {
   return (
