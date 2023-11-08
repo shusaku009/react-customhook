@@ -10,7 +10,7 @@ const style = {
   borderRadius: "8px",
   padding: "0 16px",
   margin: "8px"
-}
+};
 
 export const UserCard: VFC<Props> = (props) => {
   const { user } = props;
